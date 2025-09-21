@@ -6,8 +6,8 @@ use CactusGalaxy\FilamentAstrotomic\FilamentAstrotomicTranslatablePlugin;
 use CactusGalaxy\FilamentAstrotomic\TranslatableTab;
 use Closure;
 use Filament\Forms\Components\Component;
-use Filament\Forms\Components\Tabs;
-use Filament\Forms\Components\Tabs\Tab;
+use Filament\Schemas\Components\Tabs;
+use Filament\Schemas\Components\Tabs\Tab;
 
 class TranslatableTabs extends Tabs
 {
