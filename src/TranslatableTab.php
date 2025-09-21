@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace CactusGalaxy\FilamentAstrotomic;
 
 use Closure;
-use Filament\Forms\Components\Tabs\Tab;
+use Filament\Schemas\Components\Tabs\Tab;
 
 class TranslatableTab
 {
